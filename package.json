@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/dotenv-safe": "^8.1.2",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "dotenv-cli": "^5.1.0",
+    "dotenv-safe": "^8.2.0",
     "next": "12.1.5",
     "react": "18.0.0",
     "react-dom": "18.0.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.2",
     "sharp": "^0.30.4"
   },
   "devDependencies": {
